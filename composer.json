@@ -1,0 +1,16 @@
+{
+    "name": "loick/php",
+    "type": "phpunit",
+    "autoload": {
+        "psr-4": {
+            "Loick\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DovahkiinH",
+            "email": "loick.caplier@gmail.com"
+        }
+    ],
+    "require": {}
+}
